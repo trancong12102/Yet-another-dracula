@@ -9,19 +9,19 @@ This repository contains:
 # Installation
 1. Install [hello decoration](https://github.com/n4n0GH/hello)
 
-Buttons color scheme: 
-- close: `#ff5555`
-- minimize: `#f1fa8c`
-- maximize: `#50fa7b`
+    Buttons color scheme: 
+    - close: `#ff5555`
+    - minimize: `#f1fa8c`
+    - maximize: `#50fa7b`
 
-1. Install Yet-another-dracula theme
-```bash
-$ git clone https://github.com/nopain2110/Yet-another-dracula.git
-``` 
-- Copy `color-schemes` to `~/.local/share/color-schemes` and activate by go to `Settings → Colors → Yet-another-dracula`
-- Copy `Kvantum` to `~/.config/Kvantum` and activate by go to `Settings → Application Style → kvantum`, open Kvantum Manager and select `Yet-another-dracula`
-- Copy `plasma` to `~/.local/share/plasma` and activate by go to `Settings → Plasma Style → Yet-another-dracula`
-- Copy `sddm` to `~/.local/share/sddm` and activate by go to `Settings → Startup and Shutdown → Login Screen (SDDM) → Dracula`
+2. Install Yet-another-dracula theme
+    ```bash
+    $ git clone https://github.com/nopain2110/Yet-another-dracula.git
+    ``` 
+    - Copy `color-schemes` to `~/.local/share/color-schemes` and activate by go to `Settings → Colors → Yet-another-dracula`
+    - Copy `Kvantum` to `~/.config/Kvantum` and activate by go to `Settings → Application Style → kvantum`, open Kvantum Manager and select `Yet-another-dracula`
+    - Copy `plasma` to `~/.local/share/plasma` and activate by go to `Settings → Plasma Style → Yet-another-dracula`
+    - Copy `sddm` to `~/.local/share/sddm` and activate by go to `Settings → Startup and Shutdown → Login Screen (SDDM) → Dracula`
   
 # Recommendations
 - For better looking please use this pack with Kvantum engine.
