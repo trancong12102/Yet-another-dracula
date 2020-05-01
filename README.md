@@ -1,4 +1,4 @@
-# Yet another dracula theme for KDE Plasma Desktop
+# Yet-another-dracula theme for KDE Plasma Desktop
 Based on vinceliuice's [Layan KDE](https://github.com/vinceliuice/Layan-kde) and EliverLara's [Ant-Dracula](https://github.com/EliverLara/Ant-Dracula/tree/master/kde) <br/>
 This repository contains:
 - Plasma desktop theme
