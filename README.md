@@ -34,6 +34,7 @@ This repository contains:
 GNU GPL v3
 
 # Preview
+![](https://github.com/nopain2110/Yet-another-dracula/blob/master/previews/0.png?raw=true)
 ![](https://github.com/nopain2110/Yet-another-dracula/blob/master/previews/1.png?raw=true)
 ![](https://github.com/nopain2110/Yet-another-dracula/blob/master/previews/2.png?raw=true)
 ![](https://github.com/nopain2110/Yet-another-dracula/blob/master/previews/3.png?raw=true)
