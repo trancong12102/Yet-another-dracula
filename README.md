@@ -26,7 +26,7 @@ This repository contains:
 # Recommendations
 - For better looking please use this pack with Kvantum engine.
 
-    Run kvantummanager to choose and apply Yet-another-dracula theme.
+    Run Kvantum Manager to choose and apply Yet-another-dracula theme.
 
 - Install vinceliuice's [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme) with purple dark variant and patch colors with my script [dracula-tela-icon-patch.sh](https://github.com/nopain2110/Yet-another-dracula/Yet-another-dracula/dracula-tela-icon-patch.sh) for a more consistent and beautiful experience.
 
