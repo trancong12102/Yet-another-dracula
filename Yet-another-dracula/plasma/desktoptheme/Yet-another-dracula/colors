@@ -42,7 +42,7 @@ ForegroundInactive=211,218,227
 ForegroundLink=253,188,75
 ForegroundNegative=255,85,85
 ForegroundNeutral=255,184,108
-ForegroundNormal=254,254,254
+ForegroundNormal=40,42,54
 ForegroundPositive=80,250,122
 ForegroundVisited=189,195,199
 
