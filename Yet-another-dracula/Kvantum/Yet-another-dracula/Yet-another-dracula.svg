@@ -33,9 +33,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="54"
-     inkscape:cy="388.1659"
-     inkscape:cx="31.92915"
-     inkscape:zoom="10.115955"
+     inkscape:cy="277.86929"
+     inkscape:cx="301.17005"
+     inkscape:zoom="2.5289888"
      showgrid="false"
      id="namedview1766"
      inkscape:window-height="1080"
@@ -1921,42 +1921,42 @@
      id="g454"
      transform="translate(0.00264425,45.000002)">
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="80"
        id="floating-tab-toggled" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
        x="80"
        id="floating-tab-toggled-top" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="90"
        id="floating-tab-toggled-right" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
        x="90"
        id="floating-tab-toggled-topright" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="70"
        id="floating-tab-toggled-left" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
@@ -1988,63 +1988,63 @@
          style="fill:#bd93f9;fill-opacity:1;fill-rule:evenodd" />
     </g>
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="45"
        id="floating-tab-focused" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
        x="45"
        id="floating-tab-focused-top" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="55"
        id="floating-tab-focused-right" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
        x="55"
        id="floating-tab-focused-topright" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="410"
        x="35"
        id="floating-tab-focused-left" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:0;fill:#6272a4;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="400"
        x="35"
        id="floating-tab-focused-topleft" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:1;fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="420"
        x="45"
        id="floating-tab-focused-bottom" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="420"
        x="55"
        id="floating-tab-focused-bottomright" />
     <rect
-       style="opacity:0.12999998;fill:#555564;fill-opacity:0.90825686;fill-rule:evenodd"
+       style="opacity:1;fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="420"
@@ -2178,7 +2178,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        d="m 138.9998,354 v 32 h 32 v -32 z"
        id="tab-toggled" />
     <g
@@ -2187,13 +2187,13 @@
       <path
          inkscape:connector-curvature="0"
          id="path478"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 316,469 v 32 h 3 v -32 z"
          transform="matrix(1.25,0,0,1.015625,-372.5,-427.57652)" />
       <path
          inkscape:connector-curvature="0"
          id="path480"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z" />
     </g>
     <g
@@ -2202,13 +2202,13 @@
       <path
          inkscape:connector-curvature="0"
          id="path483"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 316,466 v 3 h 3 v -3 z"
          transform="matrix(1.25,0,0,1.25,-372.49975,-539.9984)" />
       <path
          inkscape:connector-curvature="0"
          id="path485"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z" />
     </g>
     <g
@@ -2217,20 +2217,20 @@
       <path
          inkscape:connector-curvature="0"
          id="path488"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 319,466 v 3 h 32 v -3 z"
          transform="matrix(0,-1.015625,1.25,0,-560,405.23578)" />
       <path
          inkscape:connector-curvature="0"
          id="path490"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 21.25,48.7516 v 32.5 h 1.25 v -32.5 z" />
     </g>
     <use
        y="0"
        x="0"
        xlink:href="#tab-toggled-topleft"
-       style="fill:#000000"
+       style="fill:#6272a4;fill-opacity:0"
        height="100%"
        width="100%"
        transform="matrix(-1,0,0,1,309.9996,0)"
@@ -2241,13 +2241,13 @@
       <path
          inkscape:connector-curvature="0"
          id="path494"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 351,469 v 32 h 3 v -32 z"
          transform="matrix(-1.25,0,0,1.015625,464.99975,-427.57652)" />
       <path
          inkscape:connector-curvature="0"
          id="path496"
-         style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+         style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
          d="m 21.25,48.7516 v 32.5 h 1.25 v -32.5 z" />
     </g>
     <g
@@ -2286,63 +2286,63 @@
          d="M 171.0001,921.5 H 170 l 1e-4,-6 h 1.0001 z" />
     </g>
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="360"
        x="110"
        id="tab-focused" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="350"
        x="110"
        id="tab-focused-top" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="360"
        x="120"
        id="tab-focused-right" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="350"
        x="120"
        id="tab-focused-topright" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="360"
        x="100"
        id="tab-focused-left" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="350"
        x="100"
        id="tab-focused-topleft" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="370"
        x="110"
        id="tab-focused-bottom" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="370"
        x="120"
        id="tab-focused-bottomright" />
     <rect
-       style="opacity:0.12999998;fill:#555761;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.12999998;fill:#6272a4;fill-opacity:0;fill-rule:evenodd"
        height="10"
        width="10"
        y="370"
@@ -2602,7 +2602,7 @@
      id="g601"
      transform="translate(0.00264425,45.000002)">
     <rect
-       style="fill:#6e6e70"
+       style="fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="290"
@@ -2630,7 +2630,7 @@
        x="310"
        id="menubaritem-pressed-left" />
     <rect
-       style="fill:#6e6e70"
+       style="fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="290"
@@ -2644,7 +2644,7 @@
        x="330"
        id="menubaritem-pressed-right" />
     <rect
-       style="fill:#6e6e70"
+       style="fill:#bd93f9;fill-opacity:1;fill-rule:evenodd"
        height="10"
        width="10"
        y="290"
