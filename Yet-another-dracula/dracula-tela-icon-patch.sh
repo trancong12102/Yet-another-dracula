@@ -49,7 +49,8 @@ patch_color () {
 	patch_color=$2
 
 	for path in "${PATCH_PATHS[@]}"; do
-    	find "$path" \( -type d -name .git -prune \) -o -type f -print0 | xargs -0 sed -i "s/$need_patch_color/$patch_color/g"
+		echo "PATCHING $path..."
+    		find "$path" \( -type d -name .git -prune \) -o -type f -print0 | xargs -0 sed -i "s/$need_patch_color/$patch_color/g"
 	done
 }
 
@@ -96,3 +97,4 @@ for color in "${ORANGE_DARK_1_RPS[@]}"; do
 	patch_color $color $ORANGE_DARK_1
 done
 echo 'Done!'
+
