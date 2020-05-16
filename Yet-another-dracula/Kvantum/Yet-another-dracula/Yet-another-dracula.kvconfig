@@ -120,10 +120,10 @@ centered_forms=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=5
-frame.bottom=5
-frame.left=5
-frame.right=5
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 interior=true
 interior.element=button
 indicator.size=8
@@ -334,7 +334,6 @@ interior.element=progress-pattern
 
 [ItemView]
 inherits=PanelButtonCommand
-text.margin=0
 frame.element=itemview
 interior.element=itemview
 frame.top=4

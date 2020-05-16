@@ -39,15 +39,19 @@
      inkscape:window-width="1864"
      inkscape:window-height="1080"
      id="namedview1766"
-     showgrid="false"
-     inkscape:zoom="3.9514086"
-     inkscape:cx="57.824025"
-     inkscape:cy="465.34507"
+     showgrid="true"
+     inkscape:zoom="15.805635"
+     inkscape:cx="118.83071"
+     inkscape:cy="495.79905"
      inkscape:window-x="56"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1764"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1199" />
+  </sodipodi:namedview>
   <defs
      id="defs116">
     <linearGradient
@@ -1529,16 +1533,6 @@
        d="m 124,444 h 8 v 8 h -8 z"
        style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
-    <path
-       id="itemview-pressed-topright"
-       d="m 132,440 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <path
-       id="itemview-pressed-bottomright"
-       d="m 132,452 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
     <rect
        id="itemview-pressed-right"
        x="132"
@@ -1553,16 +1547,6 @@
        width="4"
        height="8"
        style="fill:#44475a;fill-opacity:1;fill-rule:evenodd" />
-    <path
-       id="itemview-pressed-topleft"
-       d="m 124,440 v 4 h -4 v -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <path
-       id="itemview-pressed-bottomleft"
-       d="m 120,452 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
     <rect
        id="itemview-toggled-top"
        x="149"
@@ -1589,16 +1573,6 @@
        width="4"
        height="8"
        style="fill:#44475a;fill-opacity:1;fill-rule:evenodd" />
-    <path
-       id="itemview-toggled-topright"
-       d="m 157,440 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <path
-       id="itemview-toggled-bottomright"
-       d="m 157,452 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
     <rect
        id="itemview-toggled-left"
        x="145"
@@ -1606,81 +1580,101 @@
        width="4"
        height="8"
        style="fill:#44475a;fill-opacity:1;fill-rule:evenodd" />
-    <path
-       id="itemview-toggled-topleft"
-       d="m 149,440 v 4 h -4 v -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <path
-       id="itemview-toggled-bottomleft"
-       d="m 145,452 h 4 v 4 h -4 z"
-       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <rect
-       id="itemview-focused-topleft"
-       x="95"
-       y="440"
-       width="4"
-       height="4"
-       rx="0"
-       ry="0"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
     <rect
        id="itemview-focused-top"
        x="99"
        y="440"
        width="8"
        height="4"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
-    <rect
-       id="itemview-focused-topright"
-       x="107"
-       y="440"
-       width="4"
-       height="4"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
+       style="opacity:0.12;fill:#44475a;fill-opacity:1" />
     <rect
        id="itemview-focused-right"
        x="107"
        y="444"
        width="4"
        height="8"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
-    <rect
-       id="itemview-focused-bottomright"
-       x="107"
-       y="452"
-       width="4"
-       height="4"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
+       style="opacity:0.12;fill:#44475a;fill-opacity:1" />
     <rect
        id="itemview-focused-bottom"
        x="99"
        y="452"
        width="8"
        height="4"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
-    <rect
-       id="itemview-focused-bottomleft"
-       x="95"
-       y="452"
-       width="4"
-       height="4"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
+       style="opacity:0.12;fill:#44475a;fill-opacity:1" />
     <rect
        id="itemview-focused-left"
        x="95"
        y="444"
        width="4"
        height="8"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
+       style="opacity:0.12;fill:#44475a;fill-opacity:1" />
     <rect
        id="itemview-focused"
        x="99"
        y="444"
        width="8"
        height="8"
-       style="opacity:0.12000002;fill:#44475a;fill-opacity:1" />
+       style="opacity:0.12;fill:#44475a;fill-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="itemview-focused-topright"
+       style="opacity:0.12;fill:#44475a;fill-opacity:1"
+       d="m 107,440 v 2 2 h 2 2 c 0,-3 -1.00264,-4 -4,-4 z" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 94.997356,444 h 2 2 v -2 -2 c -3,0 -4,1 -4,4 z"
+       style="opacity:0.12;fill:#44475a;fill-opacity:1"
+       id="itemview-focused-topleft" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="itemview-focused-bottomleft"
+       style="opacity:0.12;fill:#44475a;fill-opacity:1"
+       d="m 99,456 v -2 -2 h -2 -2 c 0,3 0.997356,4 4,4 z" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 111,452 h -2 -2 v 2 2 c 2.99736,0 4.00807,-1 4,-4 z"
+       style="opacity:0.12;fill:#44475a;fill-opacity:1"
+       id="itemview-focused-bottomright" />
+    <path
+       id="itemview-pressed-topleft"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       d="m 119.99736,444 h 2 2 v -2 -2 c -3,0 -4,1 -4,4 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 131.99736,440 v 2 2 h 2 2 c 0,-3 -1,-4 -4,-4 z"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       id="itemview-pressed-topright" />
+    <path
+       id="itemview-pressed-bottomright"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       d="m 135.99736,452 h -2 -2 v 2 2 c 3,0 4,-1 4,-4 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 124,456 v -2 -2 h -2 -2 c 0,3 1,4 4,4 z"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       id="itemview-pressed-bottomleft" />
+    <path
+       id="itemview-toggled-topleft"
+       sodipodi:nodetypes="cccccc"
+       d="m 144.99736,444 h 2 2 v -2 -2 c -3,0 -4,1 -4,4 z"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="itemview-toggled-topright"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       d="m 156.99736,440 v 2 2 h 2 2 c 0,-3 -1,-4 -4,-4 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 160.99736,452 h -2 -2 v 2 2 c 3,0 4,-1 4,-4 z"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       id="itemview-toggled-bottomright" />
+    <path
+       id="itemview-toggled-bottomleft"
+       style="fill:#44475a;fill-opacity:1;fill-rule:evenodd"
+       d="m 148.99736,456 v -2 -2 h -2 -2 c 0,3 1,4 4,4 z"
+       sodipodi:nodetypes="cccccc" />
   </g>
   <g
      transform="translate(0.00264425,45.000002)"
