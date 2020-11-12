@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ### PATH
 readonly ICONS="$HOME/.local/share/icons"
 readonly PATCH_PATHS=(
